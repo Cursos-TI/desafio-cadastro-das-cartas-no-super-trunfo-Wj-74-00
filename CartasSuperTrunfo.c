@@ -64,7 +64,7 @@ int main()
 
     // Impressão das informações recebidas.
     printf("Nome do país: %s\nNome do estado: %s\nCódigo do estado: %s\n", nomedopais, nomedoestado, codigodoestado);
-    printf("Nome da cidade: %s\nCódigo da cidade: %s\nCódigo da carta: %s", nomedopais, nomedoestado, codigodacarta);
+    printf("Nome da cidade: %s\nCódigo da cidade: %s\nCódigo da carta: %s", nomedacidade, codigodacidade, codigodacarta);
 
     return 0;
 }
